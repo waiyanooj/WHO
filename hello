@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+  </head>
+  <body>
+    <b>Hello World<br></b>
+    <cite>Hello World<br></cite>
+    <abbr title="World Health Organization">WHO<br></abbr>
+    <s>hello world<br></s>
+    <del>2000 Ks</del> <ins>1800 Ks</ins>
+    <p><small> ipsum dolor sit amet consectetur adipisicing elit. Id ipsam natus aliquam commodi ex aliquid corrupti quod, aperiam ut ab minima cupiditate reiciendis, veniam pariatur voluptate alias eaque at nostrum? </small></p>
+    <h1>Title 1</h1>
+    <h5>Title<span style="color: blue;"> 5</span></h5>
+    <ul>
+        <li>Apple</li>
+        <li>Orange</li>
+    </ul>
+
+    <ol>
+        <li>Apple</li>
+        <li>Orange</li>
+    </ol>
+
+    <dl>
+        <dt>HTML</dt>
+
+        <dd>Hyper Text Markup Lauguage</dd>
+
+        <dt>CSS</dt>
+
+        <dd>Cascading Style Sheets</dd>
+    </dl>
+
+    <p>Walt Disney said: <q>The way to get started is to quit talking and being doing.</q></p>
+
+    <address>Written by John Doe.<br>
+             Visit us at:<br> 
+             Example.com <br>
+             Box 526,Disneyland <br>
+             USA</address>
+  </body>
+</html>
